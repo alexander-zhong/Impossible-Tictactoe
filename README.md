@@ -16,4 +16,4 @@ Note: The easy mode is adjustable within the code. In the file, "tictactoe_easy.
 
 ## How to run
 Run "python3 game.py" in the terminal to start the game. 
-* Ensure that pygame is installed or it wouldn't work 
+Please Ensure that pygame is installed
