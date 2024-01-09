@@ -3,6 +3,8 @@
 ## Description
 A game that is built on pygame where the users can select which symbol to play as (X or O) as well as the difficulty level of the AI that they will be facing. In this game, there would be two AIs that are available, easy and impossible. 
 
+### Date:
+Built during summer of 2023 
 
 ### Types of AIs
 
